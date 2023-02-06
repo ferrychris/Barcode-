@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+#container{
+    background-color: rgb(235, 236, 248);
+    margin-left: 460px;
+    margin-right: 460px;
+    margin-top: 160px;
+    padding-top: 390px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+#blue{
+    background-color: rgb(9, 19, 138);
+    margin-left:15px;
+    margin-right: 160px;
+    margin-top: -380px;
+    padding: 70px 150px;
+    display: flex;
+    
+    border-radius: 10px;
+    
+}
+#bacode{
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-left: -90px;
+    display: inline;
+    /* margin-top: -450px;*/} 
+#improve{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#scan{margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    text-align: center;
+
+}
